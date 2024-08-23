@@ -2,10 +2,11 @@
 
 <h2>Sobre mim:</h2>
 
- Eu Maria Clara Fernandes, tenho 17 anos, Sou Social Média e tive experiência de 2 anos e 3 meses na área. Gosto de fotografar e passar tempo de qualidade com minha familia e amigos. Nasci em São Paulo e resido em Diadema/São Paulo.
+ Eu Maria Clara Fernandes de Farias, tenho 17 anos, Sou Social Média e tive experiência de 2 anos e 3 meses na área. Gosto de fotografar e passar tempo de qualidade com minha familia e amigos. Nasci em São Paulo e resido em Diadema/São Paulo.
 
 <h2>Escolaridade:<h2>
-Estudo na escola estadual Antonieta Borgues Alves, onde curso o técnico em Desenvolvimento de Sistemas, onde aprendemos e desenvolvemos matérias como:
+No ano de 2023 no periodo de um ano cursei o ensino médio técnico e integrado em logística, na Escola Estadual Doutor Antônio de Souza. no Estado do Rio Grande do Norte.  
+Atualmente estudo na escola estadual Antonieta Borgues Alves, onde curso o técnico em Desenvolvimento de Sistemas, onde aprendemos e desenvolvemos matérias como:
 
 °Lógica e Linguagem de Programação, onde aprendemos a linguagem em Pyton, Programações de códigos, Variáveis e etc.
 
@@ -13,7 +14,16 @@ Estudo na escola estadual Antonieta Borgues Alves, onde curso o técnico em Dese
 
 °Carreiras e Competências de Trabalho, onde aprendemos o comportamento ideal no local de trabalho, também aprendemos a formação de curriculos e etc.
 
-°Redes e computadores
+°Redes e computadores, onde aprendemos a tabela verdade, protocolos como: TCP, IP, HTTP, FTP, topologias, meios de transmissões e etc.
+
+°Inteligência Artificial, onde aprendemos como usufruir de forma benéfica a IA.
+
+<h2>Hobbies:<h2> Em meu tempo livre
+
+
+
+
+
 
 
 
