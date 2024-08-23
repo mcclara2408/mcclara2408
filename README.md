@@ -13,6 +13,7 @@ Estudo na escola estadual Antonieta Borgues Alves, onde curso o técnico em Dese
 
 °Carreiras e Competências de Trabalho, onde aprendemos o comportamento ideal no local de trabalho, também aprendemos a formação de curriculos e etc.
 
+°Redes e computadores
 
 
 
