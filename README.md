@@ -18,7 +18,11 @@ Atualmente estudo na escola estadual Antonieta Borgues Alves, onde curso o técn
 
 °Inteligência Artificial, onde aprendemos como usufruir de forma benéfica a IA.
 
-<h2>Hobbies:<h2> Em meu tempo livre
+<h2>Hobbies:<h2> 
+Em meu tempo livre gosto de fotografar, práticar danças (Ballet), fazer pinturas, ler, fazer crochê e assistir filmes e séries.
+
+<h2>Objetivos e motivações :<h2>
+Meu objetivo é que eu possa trabalhar em minha área desejada e que nela eu possa crescer juntamente com a empresa. Minha maior motivação é minha fámilia.
 
 
 
