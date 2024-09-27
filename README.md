@@ -6,7 +6,7 @@
 
 <h2>Escolaridade:<h2>
 No ano de 2023 no periodo de um ano cursei o ensino médio técnico e integrado em logística, na Escola Estadual Doutor Antônio de Souza. no Estado do Rio Grande do Norte.  
-Atualmente estudo na escola estadual Antonieta Borgues Alves, onde curso o técnico em Desenvolvimento de Sistemas, onde aprendemos e desenvolvemos matérias como:
+Atualmente estudo na escola estadual Antonieta Borges Alves, onde curso o técnico em Desenvolvimento de Sistemas, onde aprendemos e desenvolvemos matérias como:
 
 °Lógica e Linguagem de Programação, onde aprendemos a linguagem em Pyton, Programações de códigos, Variáveis e etc.
 
